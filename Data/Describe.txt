@@ -1,0 +1,30 @@
+‘brand’: hãng điện thoại
+‘technology’: công nghệ màn hình
+‘touch_screen’: loại màn hình
+‘display_colors’: số màu của màn hình
+‘screen_size’: kích thước màn hình (inch)
+‘screen_area’: diện tích màn hình
+‘screen_to_body_ratio’: tỉ lệ màn hình hiển thị
+‘screen_resolution’: độ phân giải màn hình
+‘rear_camera’: thông tin về camera sau 
+‘front_camera’: thông tin về camera trước
+‘os’: hệ điều hành của điện thoại
+‘gpu’: thông tin về chip xử lý đồ họa
+‘external_memory’: thông tin về bộ nhớ ngoài 
+‘internal_memory’: thông tin về bộ nhớ trong (Ram, rom)
+‘cpu’: thông tin về cpu
+‘dimensions’: thông tin về chiều dài, chiều rộng, độ dày của điện thoại
+‘weight’: trọng lượng điện thoại
+‘battery’: thông tin về pin 
+‘approximate_price’: giá của điện thoại
+‘net_work’: thông tin về mạng của điện thoại (2g, 3g, 4g, 5g)
+‘speed’: tốc độ mạng điện thoại
+‘gprs’: điện thoại có hỗ trợ gprs không (giao thức kết nối internet)
+‘gps’: điện thoại có hỗ trợ gps không (định vị vị trí)
+‘wifi’: điện thoại có hỗ trợ kết nối wifi không
+‘nfc’: điện thoại có hỗ trợ kết nối nfc không
+‘usb’: điện thoại có hỗ trợ ô cắm usb không
+‘bluetooth’: thông tin về bluetooth của điện thoại
+‘radio’: điện thoại có hỗ trợ đài radio không
+‘headphone_jack’: điện thoại có hỗ trợ jack cắm tai nghe không
+‘sim_card’: thông tin về sim
